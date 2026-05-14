@@ -62,3 +62,10 @@ FastAPI ,
 Swagger UI
 
 The API accepts customer input data and returns churn prediction results in real time.
+
+Live API Deployment
+https://project-churn-prediction.onrender.com
+
+Swagger UI
+https://project-churn-prediction.onrender.com/docs
+
