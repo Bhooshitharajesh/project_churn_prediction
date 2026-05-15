@@ -69,3 +69,13 @@ https://project-churn-prediction.onrender.com
 Swagger UI
 https://project-churn-prediction.onrender.com/docs
 
+Churn prediction swagger UI 
+
+<img width="1907" height="1077" alt="churn prediction swagger UI" src="https://github.com/user-attachments/assets/1684bbcd-41b4-430d-9558-996caca181fb" />
+
+Result of churn prediction
+
+<img width="1918" height="1078" alt="Result of churn prediction" src="https://github.com/user-attachments/assets/eb72348f-3829-47a3-934e-fce2fe866c73" />
+
+
+
